@@ -1,0 +1,11 @@
+dataset/
+models/
+*.edf
+*.h5
+*.pkl
+*.pth
+*.npz
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
