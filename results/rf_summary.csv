@@ -1,0 +1,2 @@
+model,accuracy,macro_f1,cohen_kappa,n_train_subjects,n_test_subjects
+Random Forest,0.767790910439642,0.7125041227645555,0.6849435237373885,120,31
