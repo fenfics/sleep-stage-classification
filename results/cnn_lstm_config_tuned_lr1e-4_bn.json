@@ -1,0 +1,42 @@
+{
+  "CONFIG_NAME": "tuned_lr1e-4_bn",
+  "run_type": "final_training_after_tuning",
+  "MODEL": "CNN-LSTM",
+  "FS": 100,
+  "SEQ_LEN_MODEL": 20,
+  "SAMPLES": 3000,
+  "N_CHANNELS": 4,
+  "N_CLASSES": 5,
+  "LEARNING_RATE": 0.0001,
+  "USE_BATCHNORM": true,
+  "dropout_cnn": 0.3,
+  "dropout_lstm": 0.3,
+  "lstm_units": 128,
+  "BATCH_SIZE": 16,
+  "EPOCHS_SET": 30,
+  "epochs_actual_run": 10,
+  "train_sequences": 15145,
+  "val_sequences": 1913,
+  "train_steps": 947,
+  "val_steps": 120,
+  "class_weight_dict": {
+    "0": 1.0,
+    "1": 1.0,
+    "2": 1.0,
+    "3": 1.0,
+    "4": 1.0
+  },
+  "oversampling": "RandomOverSampler(sampling_strategy='not majority')",
+  "early_stopping": {
+    "monitor": "val_accuracy",
+    "patience": 7,
+    "restore_best_weights": true
+  },
+  "reduce_lr": {
+    "monitor": "val_loss",
+    "factor": 0.5,
+    "patience": 3,
+    "min_lr": 1e-06
+  },
+  "best_val_accuracy": 0.7932972311973572
+}
