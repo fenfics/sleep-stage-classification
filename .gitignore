@@ -38,3 +38,6 @@ temp_*/
 # รูปรายคนไข้จำนวนมาก (ไม่ขึ้น repo)
 results/**/signal_sequences/
 results/**/visualize/
+
+!results/**/*.ipynb
+!results/**/*.txt
