@@ -1,0 +1,2 @@
+experiment,changed_factor,seed,gamma,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp17B_Focal_seed43,Weighted Cross-Entropy -> Weighted Focal Loss,43,2.0,10513,905273,0.3729,0.7971,0.7407,0.7225,0.086

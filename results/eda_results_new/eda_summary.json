@@ -1,0 +1,64 @@
+{
+  "criteria": {
+    "flat_signal": "std < 1e-10",
+    "candidate_outlier": "robust z of extreme_ratio > 3.5",
+    "min_consecutive_epochs": 5,
+    "epoch_sec": 30
+  },
+  "files": {
+    "subjects_checked": 151,
+    "unreadable_signal": 0,
+    "unreadable_scoring": 0,
+    "duplicate_subjects": 0,
+    "orphan_scoring": 0,
+    "orphan_signal": 0
+  },
+  "signal_quality": {
+    "channels_found": [
+      "ECG",
+      "EEG C3-M2",
+      "EEG C4-M1",
+      "EEG F4-M1",
+      "EEG O2-M1",
+      "EMG chin",
+      "EOG E1-M2",
+      "EOG E2-M2"
+    ],
+    "subjects_with_different_channel_set": 0,
+    "subjects_with_unequal_sample_counts": 0,
+    "total_nan": 0,
+    "total_inf": 0,
+    "flat_signals": 0,
+    "candidate_outlier_signals": 5
+  },
+  "labels": {
+    "annotation_types": [
+      "Sleep stage N2",
+      "Sleep stage N3",
+      "Sleep stage W",
+      "Sleep stage R",
+      "Sleep stage N1",
+      "Lights off",
+      "Lights on"
+    ],
+    "invalid_or_unknown_labels": 0,
+    "label_counts": {
+      "N2": 50083,
+      "N3": 26671,
+      "W": 23686,
+      "R": 21255,
+      "N1": 15548
+    },
+    "alignment_issues": 0,
+    "subjects_with_alignment_issue": 0
+  },
+  "eligibility": {
+    "total_subjects": 151,
+    "subjects_with_W_ge_5": 150,
+    "subjects_with_N1_ge_5": 128,
+    "subjects_with_N2_ge_5": 151,
+    "subjects_with_N3_ge_5": 148,
+    "subjects_with_R_ge_5": 149,
+    "subjects_eligible_all_5_stages": 123
+  }
+}

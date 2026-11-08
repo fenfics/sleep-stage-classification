@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp3_cnn_lstm_7ch,Dropout 0.5 ก่อน LSTM (ต่อจาก Exp 1),4325923,1.2291,0.5429,0.5348,0.4286,0.2673

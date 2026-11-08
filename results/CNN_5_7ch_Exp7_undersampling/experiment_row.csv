@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp7_cnn_7ch_undersampling,"Class-balanced undersampling (random, per-epoch)",1755,905273,0.8767,0.7418,0.6847,0.653,0.0565

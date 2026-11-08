@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp11,use Square Root Inverse Frequency,10513,905273,0.7139,0.8016,0.7201,0.727,0.0702

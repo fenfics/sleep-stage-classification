@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_exp6,Exp 2b + ข้อมูล Train หลายชุดต่อระยะ (max epoch 20),10513,905273,0.7898,0.7745,0.628,0.6876,0.0531

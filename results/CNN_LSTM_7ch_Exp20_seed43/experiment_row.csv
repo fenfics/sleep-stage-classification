@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_LSTM_7ch_Exp20,43,exp19 + kernel size 50,10513,261523,0.6012,0.8013,0.7284,0.7301,0.0475

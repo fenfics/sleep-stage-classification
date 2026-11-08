@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp2b_cnn_7ch,Exp 2 + ReduceLROnPlateau + max epoch 60,905273,1.1823,0.6095,0.5879,0.5119,0.193

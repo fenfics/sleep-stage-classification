@@ -1,0 +1,2 @@
+experiment,Seed,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp19,43,Different random seed for repeatability evaluation,10513,293923,0.6094,0.8072,0.7449,0.738,0.0536

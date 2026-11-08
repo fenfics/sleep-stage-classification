@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,train_accuracy,train_macro_f1,train_kappa,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa
+CNN_LSTM_5_4ch_seed42,42,baseline,395,2525923,1.419,0.5418,0.5316,0.4272,0.4476,0.4373,0.3095,0.513,0.5007,0.3913

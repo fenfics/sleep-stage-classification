@@ -1,0 +1,2 @@
+experiment,seed,n_test_subjects,n_test_sequences,test_accuracy,test_macro_f1,test_kappa
+exp8_cnn_7ch_class_weighted,43,23,3032,0.7675,0.7063,0.6951

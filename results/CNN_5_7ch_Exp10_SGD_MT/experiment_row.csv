@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp10,add momentum = 0.9,10513,905273,0.7369,0.7898,0.7317,0.7173,0.0886

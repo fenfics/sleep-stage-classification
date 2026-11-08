@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,train_accuracy,train_macro_f1,train_kappa,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa
+cnn_lstm5_7ch_baseline,baseline 7 ช่อง,10513,4325923,0.7163,0.8676,0.7069,0.816,0.7769,0.6202,0.6923,0.815,0.6659,0.7472

@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp14,LR_PATIENCE 5 -> 10,10513,905273,0.7067,0.7995,0.734,0.728,0.0978

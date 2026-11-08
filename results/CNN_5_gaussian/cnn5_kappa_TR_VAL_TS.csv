@@ -1,0 +1,2 @@
+model,train_epochs_run,TR,VAL,TS
+CNN_5,40,0.595,0.048,0.022
