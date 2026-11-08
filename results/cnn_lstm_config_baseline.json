@@ -12,9 +12,10 @@
   "dropout_cnn": 0.5,
   "dropout_lstm": 0.3,
   "lstm_units": 128,
+  "L2_REG": 0.001,
   "BATCH_SIZE": 16,
   "EPOCHS_SET": 30,
-  "epochs_actual_run": 13,
+  "epochs_actual_run": 30,
   "train_sequences": 15145,
   "val_sequences": 1913,
   "train_steps": 947,
@@ -28,15 +29,20 @@
   },
   "oversampling": "RandomOverSampler(sampling_strategy='not majority')",
   "early_stopping": {
-    "monitor": "val_accuracy",
-    "patience": 7,
+    "monitor": "val_loss",
+    "patience": 5,
     "restore_best_weights": true
   },
   "reduce_lr": {
     "monitor": "val_loss",
     "factor": 0.5,
-    "patience": 3,
+    "patience": 2,
     "min_lr": 1e-06
   },
-  "best_val_accuracy": 0.6853395104408264
+  "regularization_notes": "L2 regularization (0.001) added to Conv1D, LSTM, and Dense layers",
+  "dropout_notes": "Additional Dropout layers added after Flatten operations",
+  "best_val_accuracy": 0.8052198886871338,
+  "best_epoch": 30,
+  "epochs_history_recorded": 15,
+  "history_note": "Epoch 1-15 training logs lost due to Colab runtime disconnect. Model was trained for the full 30 epochs (confirmed via checkpoint resume at epoch 16 and training_state.json), but per-epoch history for epochs 1-15 is unrecoverable. Saved history JSON contains only epochs 16-30."
 }
