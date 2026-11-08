@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp9_cnn_7ch,Learning Rate Scheduler 0.3 --> 0.5,10513,905273,0.9247,0.6855,0.5992,0.5739,0.0329

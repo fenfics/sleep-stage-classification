@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp13,PATIENCE 10 -> 20,10513,905273,0.6933,0.8026,0.7397,0.7317,0.0941

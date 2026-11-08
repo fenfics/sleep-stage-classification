@@ -12,3 +12,29 @@ __pycache__/
 dataset/processed/
 
 dataset/features/
+
+dataset/
+*.npz
+*.npy
+*.keras
+*.h5
+temp_*/
+.ipynb_checkpoints/
+งานวิจัยแปลไทย/
+
+# results: เก็บเฉพาะไฟล์เล็กที่อ่านได้
+results/**
+!results/**/
+!results/**/*.csv
+!results/**/*.png
+!results/**/*.json
+*.keras
+*.h5
+*.npy
+*.npz
+temp_*/
+.ipynb_checkpoints/
+
+# รูปรายคนไข้จำนวนมาก (ไม่ขึ้น repo)
+results/**/signal_sequences/
+results/**/visualize/

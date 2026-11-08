@@ -1,0 +1,2 @@
+experiment,seed,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa,train_acc_minus_val_acc
+exp5_cnn_7ch,42,905273,1.1816,0.619,0.5962,0.5238,0.5913,0.5659,0.4891,0.181

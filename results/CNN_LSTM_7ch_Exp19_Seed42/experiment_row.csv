@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp19,42,exp13 + CNN LSTM,10513,293923,0.6927,0.7957,0.7132,0.7206,0.0329

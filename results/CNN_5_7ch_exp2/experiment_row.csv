@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp2_cnn_7ch,"AveragePooling (1,25) ก่อน Flatten",905273,1.4001,0.4857,0.4289,0.3571,0.089

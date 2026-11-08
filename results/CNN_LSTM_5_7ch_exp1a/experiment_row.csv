@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp1a_cnn_lstm_7ch,ReduceLROnPlateau,4325923,1.2271,0.5429,0.5271,0.4286,0.2901

@@ -1,0 +1,2 @@
+experiment,seed,n_test_subjects,n_test_sequences,test_accuracy,test_macro_f1,test_kappa
+exp13_cnn_5_7ch_soft_voting,42_43_44,23,3032,0.841,0.7658,0.7857

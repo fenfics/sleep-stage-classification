@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp4_cnn_7ch,"Conv ชั้นแรก kernel (7,100) บน Exp 2b",190073,1.2343,0.4762,0.4383,0.3452,0.2124

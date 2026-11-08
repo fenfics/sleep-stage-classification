@@ -1,0 +1,9 @@
+channel,n_subjects_with_channel,n_total_subjects,percent_present
+ECG,151,151,100.0
+EEG C3-M2,151,151,100.0
+EEG C4-M1,151,151,100.0
+EEG F4-M1,151,151,100.0
+EEG O2-M1,151,151,100.0
+EMG chin,151,151,100.0
+EOG E1-M2,151,151,100.0
+EOG E2-M2,151,151,100.0

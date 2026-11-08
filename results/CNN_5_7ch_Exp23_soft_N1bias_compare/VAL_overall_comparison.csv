@@ -1,0 +1,4 @@
+,accuracy,macro_precision,macro_recall,macro_f1,cohen_kappa
+Exp23_soft,0.8231,0.7652,0.7791,0.7629,0.7594
+Exp23_soft+N1bias-0.55,0.8297,0.7816,0.7614,0.7685,0.7673
+Δ (bias − base),0.0066,0.0165,-0.0177,0.0055,0.0079

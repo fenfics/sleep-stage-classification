@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp16,44,exponent 0.65 -> 0.75,10513,905273,0.7477,0.8013,0.7406,0.7302,0.0669

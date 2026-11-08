@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp15,Add L2 Regularization,10513,905273,0.6758,0.8079,0.7378,0.739,0.1006

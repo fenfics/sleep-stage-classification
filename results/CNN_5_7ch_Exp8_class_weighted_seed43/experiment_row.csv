@@ -1,0 +1,2 @@
+experiment,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp8_cnn_7ch_class_weighted_seed43,Class-weighted loss seed 43,10513,905273,0.8336,0.7509,0.6843,0.6657,0.0464

@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,train_accuracy,train_macro_f1,train_kappa,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa
+CNN_LSTM_5_7ch_seed42,42,baseline 7 ช่อง,395,4325923,1.3664,0.6127,0.6055,0.5158,0.4952,0.4781,0.369,0.5391,0.5215,0.4239

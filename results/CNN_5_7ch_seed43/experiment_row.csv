@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,train_accuracy,train_macro_f1,train_kappa,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa
+cnn5_7ch_seed43,43,baseline 7 ช่อง,395,21065273,1.5393,0.7392,0.7198,0.6741,0.3619,0.2949,0.2024,0.4,0.3297,0.25

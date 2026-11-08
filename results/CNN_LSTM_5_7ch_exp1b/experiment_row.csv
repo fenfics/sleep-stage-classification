@@ -1,0 +1,2 @@
+experiment,changed_factor,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+exp1b_cnn_lstm_7ch,max epoch 60	,4325923,1.3659,0.4857,0.472,0.3571,0.1295

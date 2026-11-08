@@ -1,0 +1,2 @@
+loss,accuracy,macro_precision,macro_recall,macro_f1,cohen_kappa
+1.3751554,0.4,0.3941958806221101,0.4,0.32974882260596544,0.2499999999999999

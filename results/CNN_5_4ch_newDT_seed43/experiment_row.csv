@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,train_accuracy,train_macro_f1,train_kappa,val_accuracy,val_macro_f1,val_kappa,test_accuracy,test_macro_f1,test_kappa
+CNN_5_4ch_newDT_seed43,43,baseline 4 ch + new data,10513,12065273,0.9079,0.8758,0.7699,0.8278,0.738,0.6046,0.6372,0.7675,0.635,0.6821

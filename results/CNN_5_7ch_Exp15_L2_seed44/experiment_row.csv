@@ -1,0 +1,2 @@
+experiment,SEED,changed_factor,n_train_sequences,trainable_params,best_val_loss,val_accuracy,val_macro_f1,val_kappa,train_acc_minus_val_acc
+CNN_5_7ch_Exp15,44,Add L2 Regularization seed 44,10513,905273,0.7133,0.812,0.7465,0.7444,0.0794
